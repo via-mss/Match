@@ -240,7 +240,7 @@ int main() {
     const sf::Texture& colorSpecialTex      = colorTex;
     const int HORIZ_FRAME_WIDTH = horizontalSpecialTex.getSize().x / GEM_TYPES;
     const int HORIZ_FRAME_HEIGHT = horizontalSpecialTex.getSize().y;
-    const int VERT_FRAME_WIDTH = 166; // use the requested vertical special gem frame width
+    const int VERT_FRAME_WIDTH = 171.5; // use the requested vertical special gem frame width
     const int VERT_FRAME_HEIGHT = verticalSpecialTex.getSize().y;
     const int SQUARE_FRAME_WIDTH = squareSpecialTex.getSize().x / GEM_TYPES;
     const int SQUARE_FRAME_HEIGHT = squareSpecialTex.getSize().y;
