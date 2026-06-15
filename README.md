@@ -50,7 +50,7 @@ make
 #### 5. Run the Game
 
 ```bash
-./Match
+./3InARow
 ```
 - Or use the actual executable name if different.
 
